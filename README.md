@@ -25,6 +25,7 @@ You will have solid experience in:
 - Adtech start-ups, especially mobile DSPs, SSPs, monetisation platforms, etc
 - Solid background in cloud, data, back and front end architecture
 - Experience building SDKs
+- An early adopter of no-code, and failing fast through experimentation
 - Deep exposure to RTB, prebid, programmatic etc
 - Mobile gaming sector knowledge
 
