@@ -36,4 +36,4 @@ The early stage salary is up to €120k pa, depending on location and experience
 Apply Here:
 https://recruiterflow.com/mediarecruit/jobs/132
  
-Don't meet every single requirement?  Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. We are dedicated to diverse, inclusive and authentic recruitment, as  is our client, so if you're excited about this role but your past experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.
+*Don't meet every single requirement?  Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. We are dedicated to diverse, inclusive and authentic recruitment, as  is our client, so if you're excited about this role but your past experience doesn't align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.*
