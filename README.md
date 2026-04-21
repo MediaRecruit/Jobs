@@ -1,5 +1,5 @@
-# Jobs
-Our latest jobs we are hiring for now
+Lead Architect - In-App Monetisation AdTech Platform
+
 About The Company
 Our client is a rapidly growing, European scale-up in the adtech space, continually adding to their product suite.  Operating successfully across the US and Europe, they are now looking to add an in-app monetisation product to their tech stack.
  
